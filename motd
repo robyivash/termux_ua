@@ -1,0 +1,21 @@
+Ласкаво просимо до Termux!
+
+Документи:       https://termux.dev/docs
+Пожертвувати:    https://termux.dev/donate
+Спільнота:  https://termux.dev/community
+
+Робота з пакетами:
+
+ - Пошук:  pkg search <query>
+ - Установка: pkg install <package>
+ - Оновлення: pkg upgrade
+
+Підписка на додаткові сховища:
+
+ - Root:    pkg install root-repo
+ - X11:     pkg install x11-repo
+
+Щоб вирішити будь-які проблеми зі сховищем,
+спробуйте команду termux-change-repo.
+
+Повідомити про проблеми за адресою https://termux.dev/issues
